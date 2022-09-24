@@ -1,0 +1,14 @@
+* {
+  background-color: black;
+  text-align: center;
+  font-family: monospace;
+  height: 100px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  padding: 150px;
+}
+h1 {
+  color: white;
+}
